@@ -1,0 +1,29 @@
+{
+  "name": "status-widget",
+  "description": "status widget",
+  "main": "index.js",
+  "version": "1.0.0",
+  "keywords": [
+    "status",
+    "widget"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/status-widget.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "scripts": {
+    "prepublish": "standard"
+  },
+  "dependencies": {
+    "domify": "1.4.0",
+    "insert-css": "0.2.0"
+  },
+  "devDependencies": {
+    "standard": "5.4.1"
+  },
+  "license": "MIT"
+}
