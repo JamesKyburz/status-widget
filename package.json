@@ -23,7 +23,7 @@
     "insert-css": "0.2.0"
   },
   "devDependencies": {
-    "standard": "6.0.4"
+    "standard": "6.0.5"
   },
   "license": "MIT"
 }
