@@ -1,5 +1,7 @@
 # status-widget
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/status-widget.svg)](https://greenkeeper.io/)
+
 yet another status widget
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
