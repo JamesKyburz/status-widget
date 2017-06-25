@@ -2,7 +2,7 @@
   "name": "status-widget",
   "description": "status widget",
   "main": "index.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "status",
     "widget"
